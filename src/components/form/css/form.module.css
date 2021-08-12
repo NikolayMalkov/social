@@ -1,0 +1,17 @@
+.input{
+    border-radius: 5px;
+    border: 1px solid blue;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+}
+
+.formstyle{
+    border: 1px solid grey;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    text-align: center;
+    align-items: center;
+}

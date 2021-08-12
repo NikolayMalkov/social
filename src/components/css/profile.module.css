@@ -1,0 +1,17 @@
+
+.profile_panel{
+    width: 600px;
+    height: 350px;
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+.profile_panel img{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
